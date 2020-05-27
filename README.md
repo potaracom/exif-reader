@@ -11,7 +11,7 @@ https://potara.net/plugin/exif-reader/
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/exif-reader/releases/download/v3/exif-reader-ver3.plugin.zip  
+https://github.com/potaracom/exif-reader/releases/download/v4/exif-reader-ver4.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -26,10 +26,13 @@ https://github.com/potaracom/exif-reader/releases/download/v3/exif-reader-ver3.p
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
-- 2020/5/13 v3 リリース  
+- 2020/5/27 v4  
+  ゲストスペース内アプリに対応
+
+- 2020/5/13 v3  
   ボタンの表示スタイルを変更
 
-- 2020/4/29 v2 リリース  
+- 2020/4/29 v2  
   アイコンやURLなどを修正
 
-- 2020/2/22 v1 リリース
+- 2020/2/22 v1
